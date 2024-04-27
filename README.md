@@ -26,7 +26,6 @@ def max_marks(marks):
     large=max(marks)
     return large
 
-
 ```
 
 iii) # To find the maximum marks without using builtin functions.
@@ -37,7 +36,6 @@ def max_marks(list1):
         if i > max:
             max = i
     return max
-
 
 ```
 ## Output:
